@@ -1,2 +1,2 @@
 # python_scripts
-This repository contains useful python scripts written while learing python.
+This repository contains useful python scripts developed while learing python.
